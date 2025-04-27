@@ -1,33 +1,19 @@
-# Olá sou o Fernando Bertolo
+## Sobre mim
 
-<div align="center">
-  <a href="https://github.com/fernando-bertolo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-bertolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-bertolo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fer-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Fer-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
-  <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
-    
-    
-    
-##    
-    
-    
-<div>
+Olá! Eu sou o Fernando César Bertolo Júnior, desenvolvedor fullstack com ênfase em backend. Trabalho principalmente com **Node.js** e **NestJS**, aplicando **princípios SOLID**, **POO** e **Clean Architecture** para criar APIs escaláveis, testáveis e fáceis de manter. 
 
-  <a href = "mailto:fernando.bertolo.jr123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernandobertolojr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-</div>
-  
-  
-  
-          
-          
+Atualmente estou aprofundando meus conhecimentos em **Java** por meio de uma pós-graduação em Arquitetura e Desenvolvimento Java/Spring. No front-end, já desenvolvi projetos com **React**, **TypeScript** e **Next.js**, integrando interfaces modernas a backends robustos.
+
+### Habilidades principais
+- **Backend:** Node.js, NestJS, TypeScript, Clean Architecture, SOLID, POO  
+- **Front-end:** React, Next.js, TypeScript  
+- **Banco de Dados:** MySQL, PostgreSQL, SQLite  
+- **DevOps:** Docker, Git  
+- **Ferramentas:** IntelliJ IDEA, VS Code, Postman  
+
+### Educação
+- **Pós-Graduação** em Arquitetura e Desenvolvimento Java (FIAP — 04/2025–02/2026)  
+- **Tecnólogo** em Análise e Desenvolvimento de Sistemas (Einstein Limeira — 02/2022–06/2024)
+
+📫 Entre em contato: fernando.bertolo03@icloud.com  
+🔗 Veja meus projetos: [github.com/fernando-bertolo](https://github.com/fernando-bertolo)  
