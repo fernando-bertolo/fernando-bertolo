@@ -5,7 +5,7 @@ Olá! Eu sou o Fernando César Bertolo Júnior, desenvolvedor fullstack com ênf
 Atualmente estou aprofundando meus conhecimentos em **Java** por meio de uma pós-graduação em Arquitetura e Desenvolvimento Java/Spring. No front-end, já desenvolvi projetos com **React**, **TypeScript** e **Next.js**, integrando interfaces modernas a backends robustos.
 
 ### Habilidades principais
-- **Backend:** Node.js, NestJS, TypeScript, Clean Architecture, SOLID, POO  
+- **Backend:** Node.js, NestJS, TypeScript, Java, Spring Boot, Clean Architecture, SOLID, POO
 - **Front-end:** React, Next.js, TypeScript  
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite  
 - **DevOps:** Docker, Git  
