@@ -7,7 +7,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java** por meio de uma pó
 ### Habilidades principais
 - **Backend:** Node.js, NestJS, TypeScript, Java, Spring Boot, Clean Architecture, SOLID, POO
 - **Front-end:** React, Next.js, TypeScript  
-- **Banco de Dados:** MySQL, PostgreSQL, SQLite  
+- **Banco de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
 - **DevOps:** Docker, Git  
 - **Ferramentas:** IntelliJ IDEA, VS Code, Postman  
 
